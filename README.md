@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <span><a href="https://fabmbg.vercel.app/"> protofolio </a></span>
+  <a href="https://fabmbg.vercel.app/"> portofolio </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
